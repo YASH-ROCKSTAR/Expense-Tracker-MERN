@@ -1,6 +1,7 @@
 import './App.css';
 import Graph from './Component/Graph';
 import Form from './Component/Form';
+
 function App() {
   return (
     <div className="App">
